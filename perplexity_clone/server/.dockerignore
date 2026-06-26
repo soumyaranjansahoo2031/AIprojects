@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.git
+.gitignore
+.env
+.idea
+.vscode
+
+# Ignore all notebooks
+*.ipynb
+.ipynb_checkpoints/
