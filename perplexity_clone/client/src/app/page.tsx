@@ -76,7 +76,10 @@ const Home = () => {
 
         // Create URL with checkpoint ID if it exists
         // let url = `https://perplexity-api.onrender.com/chat_stream/${encodeURIComponent(userInput)}`;
-        let url = `http://127.0.0.1:8000/chat_stream/${encodeURIComponent(userInput)}`;
+        // let url = `http://127.0.0.1:8000/chat_stream/${encodeURIComponent(userInput)}`;
+        // let url = `https://perplexity-clone-backend-latest.onrender.com/chat_stream/${encodeURIComponent(userInput)}`;
+        const BACKEND_URL =process.env.NEXT_PUBLIC_BACKEND_URL;
+        let url = `${BACKEND_URL}/chat_stream/${encodeURIComponent(userInput)}`;
         if (checkpointId) {
           url += `?checkpoint_id=${encodeURIComponent(checkpointId)}`;
         }
