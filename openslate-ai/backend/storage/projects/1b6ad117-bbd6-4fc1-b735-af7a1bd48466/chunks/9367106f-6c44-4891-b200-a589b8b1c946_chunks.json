@@ -1,0 +1,27 @@
+[
+  {
+    "page": 1,
+    "content": "Soumya Ranjan Sahoo\n# soumyaranjansahoo2031@gmail.com\n +91 9556446492\nï LinkedIn\nÐ LeetCode\nÐ CodeForces\nÐ GFG\n§ GitHub\nSummary\nA passionate software engineer with 2.5+ years of experience in Java, Spring Boot driven by a constant hunger to learn and\nexplore new technologies. Alongside this, with 1 year of experience as a DSA/Technical trainer, I have honed my skills in\nproblem-solving, data structures, and algorithm skills while helping others strengthen their coding abilities.\nEducation\nNational Institute of Technology, Rourkela\nOdisha, India\nBachelor of Technology (B.Tech)\nJuly 2018 - June 2022\nCGPA: 7.87\nExperience\nGalgotias University — Technical Mentor - Java, Sringboot and DSA Greater Noida, India — Jan 2025 - Present\n• Trained 300+ students in Data Structures and Algorithms, significantly improving problem-solving skills.\n• Mentored 50+ students in developing backend applications using Java and Spring Boot, covering REST APIs, database\nintegration, and best coding practices.\n•",
+    "type": "text"
+  },
+  {
+    "page": 1,
+    "content": "ficantly improving problem-solving skills.\n• Mentored 50+ students in developing backend applications using Java and Spring Boot, covering REST APIs, database\nintegration, and best coding practices.\n• Contributed to development and enhancement of selected features of the university website, including API integration,\nform handling, and database optimization.\nChandigarh University — Technical Mentor - Java and DSA\nMohali, Punjab, India — April 2024 - Dec 2024\n• Trained 200+ B.Tech and M.Tech students in DSA, with a focus on interview preparation.\n• Mentored 100+ students through coding exercises, mock interviews, and personalized feedback.\nCapgemini — Software Engineer\nPune, India — Sep 2022 - Oct 2023\n• Developed and optimized RESTful APIs using Java and Spring Boot, ensuring scalable backend solutions.\n• Worked closely with front-end teams to ensure seamless API integration and smooth end-to-end functionality.\n• Collaborated with senior engineers on code reviews, brainstorming session",
+    "type": "text"
+  },
+  {
+    "page": 1,
+    "content": "end solutions.\n• Worked closely with front-end teams to ensure seamless API integration and smooth end-to-end functionality.\n• Collaborated with senior engineers on code reviews, brainstorming sessions, and performance enhancements.\n• Tools & Tech. used: Java, Eclipse, Postman, SpringBoot, MySQL\nSkills\nProgramming Languages: Java, Python, HTML/CSS\nBackend Libraries / Frameworks: Spring Boot, FastAPI\nAI / LLM: Prompt Engineering, RAG pipeline, Agentic AI, LangChain, LangGraph, MCP (Model Context Protocol),\nVector Databases (ChromaDB), LLM API Integration (OpenAI, Gemini, Ollama)\nFrontend Libraries / Frameworks: ReactJS\nTools / Platforms: Postman, VS Code, Eclipse, Google colab\nDatabases: MySQL,MongoDB, PostgreSQL, Chroma DB\nDevOps: Docker, Containerization, Render, Git, GitHub\nOther: Data Structures and Algorithms (DSA), Kafka, Redis, SOLID principles, Design patterns, Low level design, Multi-\nthreading & Concurrency, Microservices\nPersonal Projects\nEmail AI Assistant — Link\nJava, Sprin",
+    "type": "text"
+  },
+  {
+    "page": 1,
+    "content": "tructures and Algorithms (DSA), Kafka, Redis, SOLID principles, Design patterns, Low level design, Multi-\nthreading & Concurrency, Microservices\nPersonal Projects\nEmail AI Assistant — Link\nJava, Spring Boot,React.js,Gemini AI\n• Developed an AI-driven assistant that automatically generates professional email replies with a single click.\n• Built the React.js frontend, integrated a Chrome extension for Gmail automation, extracted email content via API, and\ngenerated smart replies using a Spring Boot backend with Gemini AI\n• Enabled users to respond to emails in seconds, improving efficiency and reducing response time\nReal Time Chat Application — Link\nJava, Springboot, Thymleaf, Web Socket, Javascript\n• Built a full-stack real-time chat app using Spring Boot and WebSockets (STOMP) for live, bidirectional messaging.\n• Implemented STOMP messaging over SockJS to ensure compatibility across various browsers and fallback options.\n• Created a responsive frontend with HTML, Bootstrap, and JavaScr",
+    "type": "text"
+  },
+  {
+    "page": 1,
+    "content": "directional messaging.\n• Implemented STOMP messaging over SockJS to ensure compatibility across various browsers and fallback options.\n• Created a responsive frontend with HTML, Bootstrap, and JavaScript for real-time UI updates without page reloads.\nAchievements\n• Solved 700+ DSA problems each on LeetCode and GeeksforGeeks, strengthening algorithmic thinking and coding profi-\nciency.\n• Achieved Monthly Badge awards for consistent daily problem-solving on LeetCode for three consecutive months.\n1",
+    "type": "text"
+  }
+]
