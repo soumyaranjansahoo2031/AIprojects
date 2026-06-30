@@ -1,7 +1,7 @@
 from fastapi import APIRouter
 from pydantic import BaseModel
 
-from app.services.rag_service import answer_question
+from app.agents.rag_agent import run_rag_agent
 
 
 router = APIRouter(
@@ -17,7 +17,12 @@ class ChatRequest(BaseModel):
 
 @router.post("/")
 def chat(payload: ChatRequest):
-    return answer_question(
-        payload.question,
-        payload.project_id,
+    result = run_rag_agent(
+        question=payload.question,
+        project_id=payload.project_id,
     )
+
+    return {
+        "answer": result["answer"],
+        "sources": result["sources"],
+    }
