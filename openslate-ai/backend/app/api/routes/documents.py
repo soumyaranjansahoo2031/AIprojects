@@ -112,9 +112,11 @@ def process_uploaded_document(
         "message": "Document processed successfully",
         "document_id": document.id,
         "status": document.status,
+        "partition_path": result["partition_path"],
         "chunks_path": result["chunks_path"],
+        "element_count": result["element_count"],
         "chunk_count": result["chunk_count"],
-        "vector_count": result["vector_count"]
+        "vector_count": result["vector_count"],
     }
 
 @router.delete("/{document_id}")

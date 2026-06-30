@@ -10,6 +10,10 @@ from app.api.routes.documents import (
     router as documents_router
 )
 
+from app.api.routes.retrieval import router as retrieval_router
+
+from app.api.routes.chat import router as chat_router
+
 
 Base.metadata.create_all(bind=engine)
 
@@ -41,3 +45,7 @@ app.include_router(
     documents_router,
     prefix="/api"
 )
+
+app.include_router(retrieval_router, prefix="/api")
+
+app.include_router(chat_router, prefix="/api")

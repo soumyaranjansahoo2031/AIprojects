@@ -10,9 +10,9 @@ def generate_embedding(text: str) -> list[float]:
         OLLAMA_EMBEDDING_URL,
         json={
             "model": EMBEDDING_MODEL,
-            "prompt": text
+            "prompt": text,
         },
-        timeout=120
+        timeout=120,
     )
 
     response.raise_for_status()
